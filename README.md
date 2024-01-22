@@ -1,5 +1,5 @@
 # Mamba Demo
-# Steps for Fine-Tuning and Evaluating the Mamba Model
+# Next Steps and some insights for Fine-Tuning and Evaluating the Mamba Model
 
 ## 1. Adjust Learning Rate
 - Initial learning rate of 0.0005 was ineffective.
